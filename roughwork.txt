@@ -1,9 +1,15 @@
-Kleanthis Grigoriou
+
 Title
 Leo Carabini
+Kleanthis Grigoriou
 
 Elevator pitch 
+
 A futuristic racing game that takes place in the galaxy.
+or
+Need for Speed Space will be the natural evolution of the long established game series, where we take to the roads of the universe and the great beyond.
+Racing around planets, speeding through asteroids, ready to live endless space adventures in the limitless vastness space.
+
 ...
 World Background
 main differences in your game world
