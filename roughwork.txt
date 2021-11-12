@@ -2,7 +2,7 @@ Title
 Leo Carabini
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+A futuristic racing game that takes place in the galaxy.
 ...
 World Background
 main differences in your game world
