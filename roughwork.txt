@@ -12,7 +12,7 @@ Racing around planets, speeding through asteroids, ready to live endless space a
 
 ...
 World Background
-main differences in your game world
+Set in space
 ...
 Pillars
 3-4 fundementals of this game
