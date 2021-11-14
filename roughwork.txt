@@ -15,7 +15,10 @@ World Background
 Set in space
 ...
 Pillars
-3-4 fundementals of this game
+Space races. 
+Futuristic cars.
+Special Sci-Fi effects on cars.
+Destructable envirnonment. 
 ...
 30 second gameplay description
 describe what its like to play the essence of the game loop
